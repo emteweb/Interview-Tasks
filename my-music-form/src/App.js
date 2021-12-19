@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Redirect, Navigate } from 'react-router-dom';
-import Form from './Form';
+import Form from './components/Form';
 
 import './App.css';
 
